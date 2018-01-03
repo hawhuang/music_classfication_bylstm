@@ -1,7 +1,7 @@
 # musicclassfication
 The basic model  references https://github.com/despoisj/DeepAudioClassification.
 
-To improve the acc ,I replace  the cnn model to cnn&lstm.
+To improve the acc(0.71) ,I replace  the cnn model to cnn&lstm.
 
 Usage:
 
