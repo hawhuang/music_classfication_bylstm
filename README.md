@@ -5,7 +5,7 @@ To improve the acc ,I replace  the cnn model to cnn&lstm.
 
 Usage:
 
-use songToData.py to convert mp3 tp png.
+use songToData.py to convert mp3 to png.
 
 use main.py to train&test.
 
