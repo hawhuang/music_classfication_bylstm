@@ -1,6 +1,6 @@
 # musicclassfication
 The basic model  references https://github.com/despoisj/DeepAudioClassification.
-、To improve the acc ,I replace  the cnn model to cnn&lstm.
+/To improve the acc ,I replace  the cnn model to cnn&lstm.
 
 Usage:
 \use songToData.py to convert mp3 tp png.
