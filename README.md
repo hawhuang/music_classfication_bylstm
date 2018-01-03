@@ -10,3 +10,5 @@ use songToData.py to convert mp3 to png.
 use main.py to train&test.
 
 use tsne_ou.py to get the picture of the spatial clustering.
+
+![image](https://github.com/hawhuang/music_classfication_bylstm/blob/master/img_folder/musictsne.png)
