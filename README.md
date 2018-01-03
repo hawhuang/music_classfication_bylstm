@@ -1,8 +1,8 @@
 # musicclassfication
 The basic model  references https://github.com/despoisj/DeepAudioClassification.
-/To improve the acc ,I replace  the cnn model to cnn&lstm.
+To improve the acc ,I replace  the cnn model to cnn&lstm.
 
 Usage:
-\use songToData.py to convert mp3 tp png.
-\use main.py to train&test.
-\use tsne_ou.py to get the picture of the spatial clustering.
+use songToData.py to convert mp3 tp png.
+use main.py to train&test.
+use tsne_ou.py to get the picture of the spatial clustering.
